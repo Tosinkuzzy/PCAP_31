@@ -1,1 +1,2 @@
-print("i like t be a module")
+print("I will like to be a module")
+print(__name__)

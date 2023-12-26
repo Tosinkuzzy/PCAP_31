@@ -29,10 +29,3 @@ if __name__ == "__main__":
     print(suml(my_list) == 15)
     print(prodl(my_list) == 120)
 
-
-counter = 0
-
-if __name__=="__main__":
-    print("I prefer to be a module")
-else:
-    print("I like to be a module")
